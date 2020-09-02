@@ -1,5 +1,5 @@
 function preload(){
-  font = loadFont('data/QanelasSoftDEMO-UltraLight.otf');
+  font = loadFont('data/AdobeSongStd-Light.otf');
   }
 var spin=0; circleX=0; rectY=0;
 function setup() {
