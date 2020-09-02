@@ -1,6 +1,6 @@
 function preload(){
-  font = loadFont('data/QanelasSoftDEMO-UltraLight.otf');
-  font2 = loadFont('data/AdobeThai-Italic.otf');
+font = loadFont('data/AdobeSongStd-Light.otf');
+  
 }
 function setup() {
 createCanvas(600,600);
