@@ -22,5 +22,11 @@ We looked at typeface in-relation with coding in this class. We've also been wor
 
 *"Z" for Ziyun, code from TAYLA ROGIC* 
 
+### Minecraft group 2
+Our group choosed chapter 6 from *House of leaves for performance*, which is a short chapter related with animals. I loved this chapter!
+
+![minecraft week 2](https://user-images.githubusercontent.com/68975607/91945829-9fe53300-ed31-11ea-9c03-5390d6f8f116.jpg)
+
+
 
 
