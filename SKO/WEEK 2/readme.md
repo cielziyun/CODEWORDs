@@ -20,7 +20,7 @@ We looked at typeface in-relation with coding in this class. We've also been wor
 
 ![initial week 2](https://user-images.githubusercontent.com/68975607/91928657-2c322e80-ed0f-11ea-82fd-b1dca48a2b2d.jpg)
 
-*"Z" for Ziyun Code from TAYLA ROGIC* 
+*"Z" for Ziyun, code from TAYLA ROGIC* 
 
 
 
