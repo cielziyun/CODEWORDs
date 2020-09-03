@@ -19,6 +19,7 @@ We looked at typeface in-relation with coding in this class. We've also been wor
 *"C" for Ciel*
 
 ![initial week 2](https://user-images.githubusercontent.com/68975607/91928657-2c322e80-ed0f-11ea-82fd-b1dca48a2b2d.jpg)
+[link to processing](http://127.0.0.1:8497/)
 
 *"Z" for Ziyun, code from TAYLA ROGIC* 
 
@@ -26,6 +27,8 @@ We looked at typeface in-relation with coding in this class. We've also been wor
 Our group choosed chapter 6 from *House of leaves* for performance, which is a short chapter related with animals. I loved this chapter!
 
 ![minecraft week 2](https://user-images.githubusercontent.com/68975607/91945829-9fe53300-ed31-11ea-9c03-5390d6f8f116.jpg)
+
+
 
 
 
