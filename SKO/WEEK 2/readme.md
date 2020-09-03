@@ -19,7 +19,7 @@ We looked at typeface in-relation with coding in this class. We've also been wor
 *"C" for Ciel*
 
 ![initial week 2](https://user-images.githubusercontent.com/68975607/91928657-2c322e80-ed0f-11ea-82fd-b1dca48a2b2d.jpg)
-[link to processing](http://127.0.0.1:8497/)
+[link to processing](file:///Users/cielziyun/Documents/codewords/WEEK%202/initial_Z%20Code%20from%20TAYLA%20ROGIC/index.html)
 
 *"Z" for Ziyun, code from TAYLA ROGIC* 
 
