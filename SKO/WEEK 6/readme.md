@@ -12,3 +12,7 @@ For first half of the class, we did prototype for games. It was very interesting
 ![texts 2](https://user-images.githubusercontent.com/68975607/91955638-15eb9900-ed36-11ea-9330-b57aa1ad5ea7.jpg)
 
 *space between texts moved as mouse moved*
+
+### First millestone for major project
+
+Reason for choosing McKenzie's Abstraction/class: The idea of everyone enter into relations of conflict, collusion and compromise resonates with me.
