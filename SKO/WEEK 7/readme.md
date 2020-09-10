@@ -14,3 +14,9 @@
 ![IMG_0821](https://user-images.githubusercontent.com/68975607/92666440-d75c6c80-f33b-11ea-9b96-64abd76e258b.jpg)
 
 *Prototype of the concept of "struggles between/inside classes dirves history into "abstraction" (new things-contain good and bad), then abstraction into history.*
+
+### refine-use words
+
+![words](https://user-images.githubusercontent.com/68975607/92679853-29ad8580-f35c-11ea-9d46-4f3e66d171c9.gif)
+
+*The basic idea is to express "conflict,collusion,compromise between and inside class", may make the texts twist to represent the concept of "struggle".*
