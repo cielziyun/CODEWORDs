@@ -9,7 +9,12 @@ It was a hard week for our group though, we were facing with join-world issue fr
 we've learnt writing texts and text-spin this week
 
 ![hello world](https://user-images.githubusercontent.com/68975607/91955049-3404c980-ed35-11ea-8375-404a5ec4d070.jpg)
+*Fuction by Karen*
+
 ![text spin](https://user-images.githubusercontent.com/68975607/91955062-3830e700-ed35-11ea-97b2-987d3928413d.jpg)
+*Fuction by Karen*
+
+
 
 
 
