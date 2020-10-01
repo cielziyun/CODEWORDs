@@ -8,7 +8,7 @@ This week, we displayed performances. It was nice to see each group's work, they
 
 ### I also learnt something new of Processing from youtube
 ![practice week 5](https://user-images.githubusercontent.com/68975607/91940960-f307b780-ed2a-11ea-8f51-7e122526bc37.jpg)
-*"random"*
+*"random" code by Daniel Shiffman*
 
 ### Then we went through good reader, read as much as we could and summerise them
 
