@@ -12,11 +12,11 @@ For first half of the class, we did prototype for games. It was very interesting
 *Functions by Karen :)*
 
 
-**Space between texts moved as mouse moved**
+**Sketch 2--Space between texts moved as mouse moved**
 
 ![texts](https://user-images.githubusercontent.com/68975607/91955630-11bf7b80-ed36-11ea-9bcf-ff68324bceb7.jpg)
 ![texts 2](https://user-images.githubusercontent.com/68975607/91955638-15eb9900-ed36-11ea-9330-b57aa1ad5ea7.jpg)
-*Functions by Karen again*
+*Functions by Karen again :)*
 
 
 ### First millestone for major project
