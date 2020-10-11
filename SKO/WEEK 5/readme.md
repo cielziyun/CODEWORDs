@@ -9,6 +9,7 @@ The morning class was very relaxing. I'd say every group had fantastic performan
 
 ## Processing 
 Self-learning coding from youtube. 
+
 <img width="700" src="https://user-images.githubusercontent.com/68975607/91940960-f307b780-ed2a-11ea-8f51-7e122526bc37.jpg">
 
 *"random",function by Daniel Shiffman*
