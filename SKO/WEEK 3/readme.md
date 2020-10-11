@@ -1,29 +1,40 @@
 # CODEWORDS WEEK 3
 
 ## Electronic Literature
-We learnt about various forms of electronic literature, includes texts spin, generative texts, animated texts and etc. 
+We learnt about various forms of electronic literature, includes texts spin, generative texts, animated texts, twsit texts and etc. 
 We then worked in small groups and research for this topic a bit further, below are some research that I found.
 
 <img width="700" alt="Screen Shot 2020-10-11 at 2 34 24 PM" src="https://user-images.githubusercontent.com/68975607/95671963-3cbbab80-0bcf-11eb-9592-dae3138e2e70.png">
 
-*A rotate text* link to 
+*A rotate text*  [link to website](https://spacetypegenerator.com/)
 
 <img width="700" alt="Screen Shot 2020-10-11 at 2 34 59 PM" src="https://user-images.githubusercontent.com/68975607/95671968-42b18c80-0bcf-11eb-8599-f8d0b949320a.png">
 
-*A animated text / random texts, texts twist*
+*A animated text / random texts, texts twist*  [link to youtube](https://www.youtube.com/watch?v=0HLIMp2rkFc&feature=emb_logo)
 
 Later in the class, we explored a bit about AI Dungeon, a software which can automatically generate texts and stories.
 
 <img width="700" src="https://user-images.githubusercontent.com/68975607/91943641-817e3800-ed2f-11ea-9cee-99a283d54fe7.jpg">
 
-### explored processing with Karen, fantastic drawings!
+## Karen's Live coding 
+Then Karen walked us through a whole process of coding.
 
 <img width="700" src="https://user-images.githubusercontent.com/68975607/91944351-84c5f380-ed30-11ea-952f-d75359945a69.jpg">
 
-*Karen's codes*
+*It is a coding function by Karen*
 
-### learnt more processing from youtube (The coding train by Daniel Shiffman)
+## Self learning (The coding train by Daniel Shiffman from youtube)
 
 <img width="700" src="https://user-images.githubusercontent.com/68975607/91943725-9e1a7000-ed2f-11ea-827d-3409e9b843e1.jpg">
 
-*A moving ellipse*
+*A moving ellipse based on coding tutorial*
+
+## Scripts for House of Leaves Chapter 6
+
+I wrote a script for chapter 6 which lists the scenes that my group can act for, and typed the texts to a shared document so people in my group can get acess to it.
+
+<img width="700" alt="Screen Shot 2020-10-11 at 3 00 17 PM" src="https://user-images.githubusercontent.com/68975607/95672347-a5585780-0bd2-11eb-978e-a5f4d5e855e6.png"> 
+
+*Screenshot of script* [link to script](https://docs.google.com/document/d/1LFSBYOrQ5xDKtxDsqqgTdpNnYssSDh6p4-1XaJvwEOo/edit?usp=sharing)
+
+
