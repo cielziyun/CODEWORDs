@@ -1,17 +1,20 @@
 # CODEWORDS WEEK 5
 
-This week, we displayed performances. It was nice to see each group's work, they were fantastic!
+## Digital performance
+The morning class was very relaxing. I'd say every group had fantastic performance outcomes. I really liked the editing of Animal Crossing group and the way that Second life group tell a story using parallel to the narrative. Below is a screenshot and video link to the performance of my group.
 
-![performance ](https://user-images.githubusercontent.com/68975607/91941904-986f5b00-ed2c-11ea-837d-a90d34a88740.jpg)
-*perform according to chapter 6 of House od leaves*
-[link to my group](https://www.youtube.com/watch?v=I3YU3DuZJIg&t=2s)
+<img width="700" src="https://user-images.githubusercontent.com/68975607/91941904-986f5b00-ed2c-11ea-837d-a90d34a88740.jpg">
 
-### I also learnt something new of Processing from youtube
-![practice week 5](https://user-images.githubusercontent.com/68975607/91940960-f307b780-ed2a-11ea-8f51-7e122526bc37.jpg)
-*"random",fuction by Daniel Shiffman*
+*Performance screenshot* [link to my group](https://www.youtube.com/watch?v=I3YU3DuZJIg&t=2s)
 
-### Then we went through good reader, read as much as we could and summerise them
+## Processing 
+Self-learning coding from youtube. 
+<img width="700" src="https://user-images.githubusercontent.com/68975607/91940960-f307b780-ed2a-11ea-8f51-7e122526bc37.jpg">
 
-![summerise](https://user-images.githubusercontent.com/68975607/92667777-7171e400-f33f-11ea-8ce5-879d23079ae1.jpg)
+*"random",function by Daniel Shiffman*
+
+## Reading
+We worked in small groups and read the readings provides by Andy and Karen through A Reader. [link to A Reader](http://digbeyond.com/readme/phplist.php?course=Code-Words) The texts from McKenzie Wark's Abstraction/class was impressful for me. Below is a summary of the texts.
+<img width="500" src="https://user-images.githubusercontent.com/68975607/92667777-7171e400-f33f-11ea-8ce5-879d23079ae1.jpg">
 
 *McKenzie Wark-Abstraction/class*
