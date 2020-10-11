@@ -8,7 +8,7 @@ The morning class was very relaxing. I'd say every group had fantastic performan
 *Performance screenshot* [link to my group](https://www.youtube.com/watch?v=I3YU3DuZJIg&t=2s)
 
 ## Processing 
-Self-learning coding from youtube. 
+Learning codes from youtube. 
 
 <img width="700" src="https://user-images.githubusercontent.com/68975607/91940960-f307b780-ed2a-11ea-8f51-7e122526bc37.jpg">
 
@@ -19,3 +19,7 @@ We worked in small groups and read the readings provides by Andy and Karen throu
 <img width="500" src="https://user-images.githubusercontent.com/68975607/92667777-7171e400-f33f-11ea-8ce5-879d23079ae1.jpg">
 
 *McKenzie Wark-Abstraction/class*
+
+# REFLECTION
+Seeing the performances of other groups gave me a lot of insights. Not only the way that they intepret a story, but their video edits and use of sound effects were creative.
+
