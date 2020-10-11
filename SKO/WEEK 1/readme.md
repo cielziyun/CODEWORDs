@@ -15,6 +15,7 @@ It was the first time I get in touch with coding. I felt curious about its funct
 I learnt some basic coding knowledge and skills from Lynda.com. Below is my outcome.
 
 <img width="700" src="https://user-images.githubusercontent.com/68975607/91930496-90ef8800-ed13-11ea-877d-5b619719c5d1.jpg">
+
 *A sketch of my name using Java Mode*
 
 # REFLECTION
