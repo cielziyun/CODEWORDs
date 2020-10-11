@@ -12,7 +12,7 @@ Learning codes from youtube.
 
 <img width="700" src="https://user-images.githubusercontent.com/68975607/91940960-f307b780-ed2a-11ea-8f51-7e122526bc37.jpg">
 
-*"random",function by Daniel Shiffman*
+*"Random", Function by Daniel Shiffman*
 
 ## Reading
 We worked in small groups and read the readings provides by Andy and Karen through A Reader. [link to A Reader](http://digbeyond.com/readme/phplist.php?course=Code-Words) The texts from McKenzie Wark's Abstraction/class was impressful for me. Below is a summary of the texts.
