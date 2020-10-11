@@ -19,6 +19,9 @@ For first half of the class, we did prototype for games. It was very interesting
 *Functions by Karen again :)*
 
 
-### First millestone for major project
+## First millestone for major project
 
-Reason for choosing McKenzie's Abstraction/class: The idea of everyone enter into relations of conflict, collusion and compromise resonates with me.
+**Chosen texts**: "We are the hackers of abstractions. We produce new concepts, new productions, new sensations. Hackers create the possibility of new things entering the world, not always great things, or even good things, but new things. The sectoral world is dynamic. Classes may form alliances of mutual interest against other classes, or may arrive at a “historic compromise,” for a time. The producing classes struggle against the expropriating classes，but these successive ruling classes struggle also among themselves. All classes enter into relations of conflict, collusion and compromise. Yet despite pauses and setbacks, the class struggle drives history into abstraction and abstraction into history."
+
+**Reason for choosing McKenzie's Abstraction/class**: I liked these texts because Wark creatively explained how abstraction and history accomplished each other using metaphor. He focused on the good side of human activities, whether its conflict, compromise or collusion, he thinks they are the causes of new things and promote the development of the society. I liked the way that he made a political analysis sounds imaginative but thoughtful in the meantime.
+
