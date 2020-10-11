@@ -21,5 +21,6 @@ We worked in small groups and read the readings provides by Andy and Karen throu
 *McKenzie Wark-Abstraction/class*
 
 # REFLECTION
-Seeing the performances of other groups gave me a lot of insights. Not only the way that they intepret a story, but their video edits and use of sound effects were creative.
+Seeing the performances of other groups gave me a lot of insights. Not only the way that they intepret a story were creative, but their video edits and use of sound effects were creative as well.
+The process of reading texts was enjoyable. The texts that "All people fell in relations with conflict, collusion and compromise just resonated with me. And I loved how Wark use metaphor to describe new things and history.
 
