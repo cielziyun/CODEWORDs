@@ -12,7 +12,7 @@ We then worked in small groups and research for this topic a bit further, below 
 
 *A animated text / random texts, texts twist*  [link to youtube](https://www.youtube.com/watch?v=0HLIMp2rkFc&feature=emb_logo)
 
-Later in the class, we explored a bit about AI Dungeon, a software which can automatically generate texts and stories.
+## Later in the class, we explored a bit about AI Dungeon, a software which can automatically generate texts and stories
 
 <img width="700" src="https://user-images.githubusercontent.com/68975607/91943641-817e3800-ed2f-11ea-9cee-99a283d54fe7.jpg">
 
@@ -31,7 +31,7 @@ Then Karen walked us through a whole process of coding.
 
 ## Scripts for House of Leaves Chapter 6
 
-I wrote a script for chapter 6 which lists the scenes that my group can act for, and typed the texts to a shared document so people in my group can get acess to it.
+I made a script for my group which divided the texts of chapter 6 into seperate scenes. I also recorded the texts from chapter 6 in a shared google docs document so people in my group can get acess to it.
 
 <img width="500" alt="Screen Shot 2020-10-11 at 3 00 17 PM" src="https://user-images.githubusercontent.com/68975607/95672347-a5585780-0bd2-11eb-978e-a5f4d5e855e6.png"> 
 
