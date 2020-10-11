@@ -7,14 +7,14 @@ We were sharing our most recent readings with a group during this section. It's 
 ## Minecraft
 Later in the class, we took a walk in "mini Melbourne" through Minecraft. It was amazing because the mini Melbourne almost restored the look of Melbourne city, RMIT University and the flinders station. 
 
-![mini melb](https://user-images.githubusercontent.com/68975607/91931394-ee84d400-ed15-11ea-9252-b30bd0544ddb.jpg)
+<img width="700" src="https://user-images.githubusercontent.com/68975607/91931394-ee84d400-ed15-11ea-9252-b30bd0544ddb.jpg">
 
 ## Processing
 For the last half of week 1 class, we were introduced to processing. We started with p5js mode, a beginner friendly javascript. 
 It was the first time I get in touch with coding. I felt curious about its functions and what design outcomes can be made by this tool. 
 I learnt some basic coding knowledge and skills from Lynda.com. Below is my outcome.
 
-![pic_ciel](https://user-images.githubusercontent.com/68975607/91930496-90ef8800-ed13-11ea-877d-5b619719c5d1.jpg)
+<img width="700" src="https://user-images.githubusercontent.com/68975607/91930496-90ef8800-ed13-11ea-877d-5b619719c5d1.jpg">
 *A sketch of my name (Java mode)*
 
 # REFLECTION
