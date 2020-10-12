@@ -48,7 +48,7 @@ Furthermore, I wanted to set time for texts to appear and disappear.
 
 ### -Experiments
 
-**Fade**
+**Fade in and out**
 
 <img width="700" alt="Screen Shot 2020-10-12 at 9 52 44 AM" src="https://user-images.githubusercontent.com/68975607/95698692-13555b00-0c75-11eb-92d2-ee9b4008b2fd.png">
 
