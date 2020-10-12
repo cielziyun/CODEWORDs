@@ -39,6 +39,20 @@ Furthermore, I wanted to set time for texts to appear and disappear.
 
 [link to fade in and out](https://editor.p5js.org/remarkability/sketches/rtM08miUD)
 
+### Experiments
+
+**Fade**
+
+<img width="700" alt="Screen Shot 2020-10-12 at 9 52 44 AM" src="https://user-images.githubusercontent.com/68975607/95698692-13555b00-0c75-11eb-92d2-ee9b4008b2fd.png">
+
+**Texts array and Texts wiggle**
+
+<img width="700" alt="Screen Shot 2020-09-24 at 10 04 19 AM" src="https://user-images.githubusercontent.com/68975607/95698426-772b5400-0c74-11eb-828c-26776a9f9529.png">
+
+**Texts array, Array of objecys and Texts wiggle**
+
+<img width="700" alt="Screen Shot 2020-10-12 at 9 55 28 AM" src="https://user-images.githubusercontent.com/68975607/95698449-8e6a4180-0c74-11eb-86df-4904b5cc1286.png">
+
 
 
 
