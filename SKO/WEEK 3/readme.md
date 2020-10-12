@@ -16,20 +16,22 @@ We then worked in small groups and research for this topic a bit further, below 
 
 <img width="700" src="https://user-images.githubusercontent.com/68975607/91943641-817e3800-ed2f-11ea-9cee-99a283d54fe7.jpg">
 
+*A screenshot of AI Dungeon*
+
 ## Karen's Live coding 
 Then Karen walked us through a whole process of coding.
 
 <img width="500" src="https://user-images.githubusercontent.com/68975607/91944351-84c5f380-ed30-11ea-952f-d75359945a69.jpg">
 
-*Codes from Karen*
+*All codes and functions from Karen*
 
 ## Self learning (The coding train by Daniel Shiffman from youtube)
 
 <img width="500" src="https://user-images.githubusercontent.com/68975607/91943725-9e1a7000-ed2f-11ea-827d-3409e9b843e1.jpg">
 
-*A moving ellipse based on coding tutorial*
+*A moving ellipse based on youtube tutorial*
 
-## Scripts for House of Leaves Chapter 6
+## GROUP WORK-Scripts for House of Leaves Chapter 6
 
 I made a script for my group which divided the texts of chapter 6 into seperate scenes. I also recorded the texts from chapter 6 in a shared google docs document so people in my group can get acess to it.
 
