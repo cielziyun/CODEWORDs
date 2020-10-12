@@ -21,11 +21,15 @@
 <img width="700" src="https://user-images.githubusercontent.com/68975607/92679853-29ad8580-f35c-11ea-9d46-4f3e66d171c9.gif">
 
 ## Karen's live coding
-Introduced by p5js libraries and how to import sounds to a p5js sketch. Below is a sketch with sounds.
+Introduced by p5js libraries, p5js references and how to import sounds to a p5js sketch. Below is a sketch with sounds.
 
+<img width="700" alt="Screen Shot 2020-10-12 at 8 59 15 AM" src="https://user-images.githubusercontent.com/68975607/95695446-7e993000-0c69-11eb-9b28-f08f63dc1985.png"> 
+
+[link to sketch](https://cielziyun.github.io/CODEWORDs-SKO/SKO/WEEK%207/week_7_code_with_sound/)
 
 # REFLECTION
 Mindmaps help me structure the ideas. Paper prototype was a good method to structure the texts. 
+P5js libraries and references are very helpful tools. Such as p5.sound and p5.particle, they help to make the original sketch more impactful and complex.
 
 
 
