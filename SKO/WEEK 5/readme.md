@@ -5,7 +5,9 @@ The morning class was very relaxing. I'd say every group had fantastic performan
 
 <img width="700" src="https://user-images.githubusercontent.com/68975607/91941904-986f5b00-ed2c-11ea-837d-a90d34a88740.jpg">
 
-*Performance screenshot* [link to my group](https://www.youtube.com/watch?v=I3YU3DuZJIg&t=2s)
+*Performance screenshot* 
+
+[video link to my group](https://www.youtube.com/watch?v=I3YU3DuZJIg&t=2s)
 
 ## Processing 
 Learning codes from youtube. 
