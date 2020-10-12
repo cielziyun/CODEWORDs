@@ -1,6 +1,6 @@
 # CODEWORDS WEEK 7
 
-## First millestone of major project
+## First milestone of major project
 
 **My chosen texts**: McKenzie's Abstraction/class："We are the hackers of abstractions. We produce new concepts, new productions, new sensations. Hackers create the possibility of new things entering the world, not always great things, or even good things, but new things. The sectoral world is dynamic. Classes may form alliances of mutual interest against other classes, or may arrive at a “historic compromise,” for a time. The producing classes struggle against the expropriating classes，but these successive ruling classes struggle also among themselves. All classes enter into relations of conflict, collusion and compromise. Yet despite pauses and setbacks, the class struggle drives history into abstraction and abstraction into history."
 
@@ -21,9 +21,11 @@
 <img width="700" src="https://user-images.githubusercontent.com/68975607/92679853-29ad8580-f35c-11ea-9d46-4f3e66d171c9.gif">
 
 ## Karen's live coding
-Introduced by p5js libraries, p5js references and how to import sounds to a p5js sketch. Below is a sketch with sounds.
+Introduced by p5js libraries, p5js examples and p5js references + how to import sounds to a p5js sketch. Below is a sketch with sounds.
 
 <img width="700" alt="Screen Shot 2020-10-12 at 8 59 15 AM" src="https://user-images.githubusercontent.com/68975607/95695446-7e993000-0c69-11eb-9b28-f08f63dc1985.png"> 
+
+*Codes and Function by Karen*
 
 [link to sketch](https://cielziyun.github.io/CODEWORDs-SKO/SKO/WEEK%207/week_7_code_with_sound/)
 
