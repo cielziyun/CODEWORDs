@@ -35,5 +35,7 @@ We explored more on p5js libraries in this week. Below is Karen's codes and func
 
 <img width="700" alt="Screen Shot 2020-10-12 at 9 16 14 AM" src="https://user-images.githubusercontent.com/68975607/95695991-f23c3c80-0c6b-11eb-8f45-00d2c6abe028.png">
 
+*Codes and function by Karen*
+
 # REFLECTION
 Week 8 is a busy week. I had capstone projects and Japanese exams in due. I also experimented with After effects a lot during this semester. I found that expressions are also used in this software. I watched Andrew Kramer's videos [link to website](https://www.videocopilot.net/) and noticed that he creates plug-ins for After effects and some other softwares by writing functions. This is interesting as I realised that coding is relevant with many design fields and benefit designers in several aspects.
