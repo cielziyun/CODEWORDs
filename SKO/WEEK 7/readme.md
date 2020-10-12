@@ -30,8 +30,8 @@ Introduced by p5js libraries, p5js examples and p5js references + how to import 
 [link to sketch](https://cielziyun.github.io/CODEWORDs-SKO/SKO/WEEK%207/week_7_code_with_sound/)
 
 # REFLECTION
-Mindmaps help me structure the ideas. Paper prototype was a good method to structure the texts. 
-P5js libraries and references are very helpful tools. Such as p5.sound and p5.particle, they help to make the original sketch more impactful and complex.
+Mindmaps help me structure the ideas. Paper-prototype was a good method to structure the texts. 
+P5js libraries and references are very helpful tools. Such as p5.sound and p5.particle, they help to make the original sketch more impactful and looks better.
 
 
 
