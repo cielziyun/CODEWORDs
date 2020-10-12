@@ -31,7 +31,7 @@ We learnt and practiced to write a pseudocode last week. Below is a screenshot o
 
 ## Karen's live coding
 
-We explored more on p5js libraries in this week. Below is Karen's codes and functions. I loved this effect very much and spent a lot time to understand it.
+We explored more on p5js libraries in this week. Below is Karen's codes and functions. This sketch used function of "class", "jitter" and etc. I loved this effect very much and spent a lot time to study it.
 
 <img width="700" alt="Screen Shot 2020-10-12 at 9 16 14 AM" src="https://user-images.githubusercontent.com/68975607/95695991-f23c3c80-0c6b-11eb-8f45-00d2c6abe028.png">
 
