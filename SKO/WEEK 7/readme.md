@@ -6,6 +6,7 @@
 
 **Reason for choosing McKenzie's Abstraction/class**: I liked these texts because Wark creatively explained how abstraction and history accomplished each other by using metaphor. He focused on the good side of human activities, whether its conflict, compromise or collusion, he thinks they are the causes of new things and promote the development of the society. I liked the way that he made a political analysis sounds imaginative but thoughtful.
 
+## Paper-prototype
 **Prototype based on "conflict, collusion and compromise" from McKenzie Wark's Abstraction/class**
 
 <img width="700" src="https://user-images.githubusercontent.com/68975607/92577252-07b0f600-f2bd-11ea-9b6c-c9e07cab4c53.gif">
@@ -20,7 +21,7 @@
 <img width="700" src="https://user-images.githubusercontent.com/68975607/92679853-29ad8580-f35c-11ea-9d46-4f3e66d171c9.gif">
 
 # REFLECTION
-I misunderstood the purpose of the major project. I realised we should use texts only for the project.
+Mindmaps help me structure the ideas. Paper prototype was a good method to structure the texts. 
 
 
 
