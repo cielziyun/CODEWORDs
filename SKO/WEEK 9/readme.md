@@ -19,7 +19,7 @@ I wanted to focus on the texts that I organized from the reading material. There
 
 [link to text](https://p5js.org/zh-Hans/reference/#/p5/text)
 
-I also looked at functions relates to objects movements. I wonder whether I can displace objects with texts and make same results by using texts. 
+I also looked at functions relates to objects movements. I wonder whether I can displace objects with texts and make the same results by using texts. 
 
 **Motion**
 
@@ -39,6 +39,13 @@ Furthermore, I wanted to set time for texts to appear and disappear.
 
 [link to fade in and out](https://editor.p5js.org/remarkability/sketches/rtM08miUD)
 
+
+### Further organized texts
+
+Exact texts I'll use:
+
+"We are the hackers of abstractions", "We produce new concepts" , "new productions", "new sensations", "Hackers create the possibility of new things entering the world”, "Not always great things, or even good things, but new things”, "The sectoral world is dynamic”, “All classes enter into relations of conflict, collusion and compromise”, “the class struggle drives history into abstraction and abstraction into history.”
+
 ### Experiments
 
 **Fade**
@@ -53,8 +60,7 @@ Furthermore, I wanted to set time for texts to appear and disappear.
 
 <img width="700" alt="Screen Shot 2020-10-12 at 9 55 28 AM" src="https://user-images.githubusercontent.com/68975607/95698449-8e6a4180-0c74-11eb-86df-4904b5cc1286.png">
 
-
-
-
+## REFLECTION
+This is a struggling week for me. I felt very tired looking for the exact functions that I need for my projects. At the start, I wanted to use different functions (to apply various effects) for different sections of my texts, and then combine them together using the function of "transition". When I found out there is nothing similar with "transition" in processing, I realised that it may not be possible to combine multiple sketches into one sketch. Then, I decided to focus on the texts, and try to create a variation from them. When I found "array of objects", I wanted to develop and replace the shape function that was used in the codes with my texts. However, I failed as well. So at last, I decided to overlay functions together in one sketch and make the result more visual impactful while focusing on texts.
 
 
