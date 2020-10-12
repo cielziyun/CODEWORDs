@@ -25,13 +25,13 @@
 
 **Pseudocode**
 
-We learnt and practiced writing a pseudocode last week. Below is a screenshot of pseudocode for my major project at this stage.
+We learnt and practiced to write a pseudocode last week. Below is a screenshot of pseudocode for my major project at this stage.
 
 <img width="331" alt="Screen Shot 2020-10-12 at 9 13 47 AM" src="https://user-images.githubusercontent.com/68975607/95696259-fc126f80-0c6c-11eb-95bf-9e0e4c5b62f5.png">
 
 ## Karen's live coding
 
-Explored more on p5js libraries. Below is Karen's outcome, Which I spent a lot of time to understand. I loved this effect so much.
+We explored more on p5js libraries in this week. Below is Karen's codes and functions. I loved this effect very much and spent a lot time to understand it.
 
 <img width="700" alt="Screen Shot 2020-10-12 at 9 16 14 AM" src="https://user-images.githubusercontent.com/68975607/95695991-f23c3c80-0c6b-11eb-8f45-00d2c6abe028.png">
 
