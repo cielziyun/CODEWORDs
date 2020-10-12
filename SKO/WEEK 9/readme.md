@@ -1,6 +1,13 @@
 # CODEWORD WEEK 9
 
+## Further organized texts
+
+Exact texts I'll use:
+
+"We are the hackers of abstractions", "We produce new concepts" , "new productions", "new sensations", "Hackers create the possibility of new things entering the world”, "Not always great things, or even good things, but new things”, "The sectoral world is dynamic”, “All classes enter into relations of conflict, collusion and compromise”, “the class struggle drives history into abstraction and abstraction into history.”
+
 ## Establish codes
+
 ### Process
 
 1. List all effects that I may use for the project
@@ -38,13 +45,6 @@ Furthermore, I wanted to set time for texts to appear and disappear.
 [link to set time out](https://www.youtube.com/watch?v=nGfTjA8qNDA)
 
 [link to fade in and out](https://editor.p5js.org/remarkability/sketches/rtM08miUD)
-
-
-### Further organized texts
-
-Exact texts I'll use:
-
-"We are the hackers of abstractions", "We produce new concepts" , "new productions", "new sensations", "Hackers create the possibility of new things entering the world”, "Not always great things, or even good things, but new things”, "The sectoral world is dynamic”, “All classes enter into relations of conflict, collusion and compromise”, “the class struggle drives history into abstraction and abstraction into history.”
 
 ### Experiments
 
