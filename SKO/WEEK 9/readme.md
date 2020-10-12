@@ -1,7 +1,7 @@
 # CODEWORD WEEK 9
 
 ## Establish codes
-**Process**
+### Process
 
 1. List all effects that I may use for the project
 2. Find the corresponding examples and references from p5js and websites
