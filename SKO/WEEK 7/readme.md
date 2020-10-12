@@ -20,6 +20,10 @@
 
 <img width="700" src="https://user-images.githubusercontent.com/68975607/92679853-29ad8580-f35c-11ea-9d46-4f3e66d171c9.gif">
 
+## Karen's live coding
+Introduced by p5js libraries and how to import sounds to a p5js sketch. Below is a sketch with sounds.
+
+
 # REFLECTION
 Mindmaps help me structure the ideas. Paper prototype was a good method to structure the texts. 
 
