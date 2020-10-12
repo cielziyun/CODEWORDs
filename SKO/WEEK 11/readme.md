@@ -8,4 +8,4 @@ After week 11's class and consultation with Andy. I changed fonts for my project
 
 *A screenshot of the sketch*
 
-[link to the sketch](https://cielziyun.github.io/CODEWORDs-SKO/SKO/WEEK11/week_11_sketch_/)
+[link to the sketch](https://cielziyun.github.io/CODEWORDs-SKO/SKO/WEEK_11/new_fonts)
