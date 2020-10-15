@@ -61,6 +61,4 @@ Furthermore, I wanted to set time for texts to appear and disappear.
 <img width="700" alt="Screen Shot 2020-10-12 at 9 55 28 AM" src="https://user-images.githubusercontent.com/68975607/95698449-8e6a4180-0c74-11eb-86df-4904b5cc1286.png">
 
 ## REFLECTION
-This is a struggling week for me. I felt very tired looking for the exact functions that I need for my projects. At the start, I wanted to use different functions (to apply various effects) for different sections of my texts, and then combine them together using the function of "transition". When I found out there is nothing similar with "transition" in processing, I realised that it may not be possible to combine multiple sketches into one sketch. Then, I decided to focus on the texts, and try to create a variation from them. When I found "array of objects", I wanted to develop and replace the shape function that was used in the codes with my texts. However, I failed as well. So at last, I decided to overlay functions together in one sketch and make the result more visual impactful while focusing on texts.
-
-
+I tried to combine multiple sketches, and wanted to use different effects for each sketch. I didn't figure it out. so, I decided to focus on the texts, and try to create a variation from them. 
