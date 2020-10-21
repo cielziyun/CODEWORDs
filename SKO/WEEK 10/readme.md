@@ -2,7 +2,7 @@
 
 ## Third milestone of major projects
 
-Based on last week's research and experiments with codes, I varied font sizes and developed a bit further based on the function of "text wiggle" [link to Text wiggle](https://editor.p5js.org/aferriss/sketches/B1VGG0L-7).
+Based on last week's codes, I varied font sizes and developed a bit further based on the function of "text wiggle" [link to Text wiggle](https://editor.p5js.org/aferriss/sketches/B1VGG0L-7) and use it as a text background for my sketch.
 
 [Link to the sketch](https://cielziyun.github.io/CODEWORDs-SKO/SKO/WEEK%2010/week%2010%20milestone/)
 
@@ -10,7 +10,8 @@ Based on last week's research and experiments with codes, I varied font sizes an
 
 *A screenshot of the project*
 
-## REFLECTION
+
+
 
 
 
