@@ -1,7 +1,7 @@
 # CODEWORDS WEEK 5
 
 ## Digital performance
-The morning class was very relaxing. I'd say every group had fantastic performance outcomes. I really liked the editing of Animal Crossing group and the way that Second life group tell a story using parallel to the narrative. Below is a screenshot and video link to the performance of my group.
+The morning class was very relaxing! Every group showed fantastic performance outcomes. I really liked the editing of the Animal Crossing group, and how the Second life group tell a story using the method of parallel to the narrative. Below is a screenshot and video link to the performance of my group.
 
 <img width="700" src="https://user-images.githubusercontent.com/68975607/91941904-986f5b00-ed2c-11ea-837d-a90d34a88740.jpg">
 
