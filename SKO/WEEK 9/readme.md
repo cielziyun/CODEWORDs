@@ -61,4 +61,4 @@ Furthermore, I wanted to set time for texts to appear and disappear.
 <img width="700" alt="Screen Shot 2020-10-12 at 9 55 28 AM" src="https://user-images.githubusercontent.com/68975607/95698449-8e6a4180-0c74-11eb-86df-4904b5cc1286.png">
 
 ## REFLECTION
-I tried to combine multiple sketches, and wanted to use different effects for each sketch. I didn't figure it out. so, I decided to focus on the texts, and try to create a variation from them. 
+I tried to combine multiple sketches, and wanted to use different effects for each sketch. At last, I decided to focus on the texts, using texts array to display words clearly. I wanted to use texts to create a backgroud as well. 
