@@ -31,8 +31,7 @@ Introduced by p5js libraries, p5js examples and p5js references + how to import 
 
 # REFLECTION
 Mindmaps help me structure the ideas. Paper-prototype was a good method to structure the texts. 
-P5js libraries and references are very helpful tools. Such as p5.sound and p5.particle, they help to make the original sketch more impactful and looks better.
-
+P5js libraries and references are very helpful tools as well. 
 
 
 
