@@ -21,5 +21,5 @@ After week 11's class and consultation with Andy. I research on geometric fonts 
 *Screenshot of statement*
 
 ## REFLECTION
-
+I refined the background color for my sketch after week 11 class. I looked up this function [link to p5js web editor](https://editor.p5js.org/amena91/sketches/B1JuX5rjb). The animated background is very cool, I also liked the little dots that creates a sense of movement.
 
