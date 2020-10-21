@@ -31,11 +31,11 @@ We learnt and practiced to write a pseudocode last week. Below is a screenshot o
 
 ## Karen's live coding
 
-We explored more on p5js libraries in this week. Below is Karen's codes and functions. This sketch used function of "class", "jitter" and etc. I loved this effect very much and spent a lot of time to study it.
+We explored more on p5js libraries in this week. Below is Karen's codes and functions. This sketch used function of "class", "jitter" and etc. I loved this effect very much! I also spent time study it after class.
 
 <img width="700" alt="Screen Shot 2020-10-12 at 9 16 14 AM" src="https://user-images.githubusercontent.com/68975607/95695991-f23c3c80-0c6b-11eb-8f45-00d2c6abe028.png">
 
 *Codes and function by Karen*
 
 # REFLECTION
-Week 8 is a busy week. I had capstone projects and Japanese exams in due. I also experimented with After effects a lot during this semester. I found that expressions are also used in this software. I watched Andrew Kramer's videos link to the website and noticed that he creates plug-ins for After effects and some other software by writing functions. This is interesting as I realised that coding is relevant to many design fields and benefits designers in several aspects.
+Week 8 is a busy week. I had capstone projects and Japanese exams in due. I also experimented with After effects a lot during this semester. I found that expressions are also used in this software. I watched Andrew Kramer's videos [link to the website](https://www.videocopilot.net/) and noticed that he creates plug-ins for After effects and some other software by writing functions. 
