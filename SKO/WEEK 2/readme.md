@@ -3,12 +3,12 @@
 ## Typeface
 We were introduced with modular typeface designs at the beginning of the class. We've also been working in small groups, research furthermore typeface designs and shared with the class. Below are some of the typefaces impressed and inspired me a lot.
 
-<img width="700" src="https://user-images.githubusercontent.com/68975607/91927451-21c26580-ed0c-11ea-812e-547453cc2b5c.jpg">
+<img width="500" src="https://user-images.githubusercontent.com/68975607/91927451-21c26580-ed0c-11ea-812e-547453cc2b5c.jpg">
 
 *Myrrh by Ahnsangsoo, 1992–2015* 
 [link to Ahnsangsoo](https://letterformarchive.org/news/from-the-collection-ahn-sang-soo)
 
-<img width="700" src="https://user-images.githubusercontent.com/68975607/91927729-d5c3f080-ed0c-11ea-93e9-0b277dc0d880.jpg">
+<img width="500" src="https://user-images.githubusercontent.com/68975607/91927729-d5c3f080-ed0c-11ea-93e9-0b277dc0d880.jpg">
 
 *Eighth Halo by Paul Giles, 2012*
 [link to Eight Halo](https://www.behance.net/gallery/4774481/Eighth-Halo-Typography)
