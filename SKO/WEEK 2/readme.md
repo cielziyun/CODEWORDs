@@ -34,6 +34,8 @@ The digital space in Minecraft.
 
 <img width="700" src="https://user-images.githubusercontent.com/68975607/91945829-9fe53300-ed31-11ea-9c03-5390d6f8f116.jpg">
 
+*Screenshot of "a selfie" in Minecraft*
+
 ## Introduction to Github
 Karen and Andy walked us through the basic functions of github. It is kinkd of like a place where I can store documents and codes. I established my first repository and explored a bit of chatacters and paragraphs of using github.
 
