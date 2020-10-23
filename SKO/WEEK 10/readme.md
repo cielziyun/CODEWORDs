@@ -2,7 +2,7 @@
 
 ## Third milestone of major projects
 
-Based on last week's codes, I varied font sizes and developed a bit further based on the function of "text wiggle" [link to Text wiggle](https://editor.p5js.org/aferriss/sketches/B1VGG0L-7) and use it as a text background for my sketch.
+Based on last week's experiments with codes, I used function based on "text wiggle" [link to Text wiggle](https://editor.p5js.org/aferriss/sketches/B1VGG0L-7) to create a relating background with my texts. The words I used for the background is "New", "Abstraction", and "History", which are words that I think are essential to the texts. I also varied fonts of texts to create more variation.
 
 [Link to the sketch](https://cielziyun.github.io/CODEWORDs-SKO/SKO/WEEK%2010/week%2010%20milestone/)
 
