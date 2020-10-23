@@ -30,8 +30,9 @@ Introduced by p5js libraries, p5js examples and p5js references + how to import 
 [link to sketch](https://cielziyun.github.io/CODEWORDs-SKO/SKO/WEEK%207/week_7_code_with_sound/)
 
 # REFLECTION
-Mindmaps help me structure the ideas. Paper-prototype was a good method to structure the texts. 
-P5js libraries and references are very helpful tools as well. 
+Mindmaps help me structure the ideas. Paper-prototype was a good method to structure the texts. We were also introduced to P5js libraries and references, they are helpful tools as well. 
+
+I misunderstood the major project a little bit. I created a short animation based on my texts... It is more challenging for me to use only texts for this project. I've been considering how should I use texts to create a background, to create more variables and etc.   
 
 
 
