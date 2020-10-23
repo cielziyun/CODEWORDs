@@ -38,4 +38,6 @@ We explored more on p5js libraries in this week. Below is Karen's codes and func
 *Codes and function by Karen*
 
 # REFLECTION
-Week 8 is a busy week. I had capstone projects and Japanese exams in due. I also experimented with After effects a lot during this semester. I found that expressions are also used in this software. I watched Andrew Kramer's videos [link to the website](https://www.videocopilot.net/) and noticed that he creates plug-ins for After effects and some other software by writing functions. 
+Week 8 is a busy week. I had capstone projects and Japanese exams in due. I also experimented with After effects a lot during this semester. I found that expressions are also used in this software. I watched Andrew Kramer's videos [link to the website](https://www.videocopilot.net/) and noticed that he creates plug-ins for After effects by writing functions. Although I didn't understand how to achieve that, I think codes may be a useful tool in my future design career.
+
+After class, I tried to use p5js and follow my paper prototype to create the same results from it. However, I failed to combine every single sketch together. I think it will be much convenient to do it using AE. Therefore, it's less meaningful for me to stick with my paper prototype. I changed my methods of developing my codes, to search for functions according to the effects that I need for my projects.
