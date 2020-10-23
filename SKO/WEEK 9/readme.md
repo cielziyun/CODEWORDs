@@ -1,5 +1,7 @@
 # CODEWORD WEEK 9
 
+After week 8 class, I tried to use p5js and follow my paper prototype to create the same results from it. However, I failed to combine every single sketch together. I think it will be much convenient to do it using AE. Therefore, it's less meaningful for me to stick with my paper prototype. I changed my methods of developing my codes, to search for functions according to the effects that I need for my projects.
+
 ## Further organized texts
 
 Exact texts I'll use:
@@ -61,4 +63,4 @@ Furthermore, I wanted to set time for texts to appear and disappear.
 <img width="700" alt="Screen Shot 2020-10-12 at 9 55 28 AM" src="https://user-images.githubusercontent.com/68975607/95698449-8e6a4180-0c74-11eb-86df-4904b5cc1286.png">
 
 ## REFLECTION
-I tried to combine multiple sketches, and wanted to use different effects for each sketch. At last, I decided to focus on the texts, using texts array to display words clearly. I wanted to use texts to create a backgroud as well. 
+I tried to combine multiple sketches and wanted to use different effects for each sketch. At last, I decided to focus on the texts itself, using texts array to display words clearly. I'll keep experiment with using texts to create a more engaging background.
