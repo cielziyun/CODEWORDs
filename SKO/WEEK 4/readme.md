@@ -20,8 +20,11 @@ Below are screenshots of the digital space that my group will perform at.
 <img width="700" src="https://user-images.githubusercontent.com/68975607/91949774-cbb4e880-ed32-11ea-8d93-9453a09f7c3d.jpg">
 
 ## REFLECTION
-Karen presented this week's coding session with a more detailed methods and were very helpful for me. I had a deeper understanding of how texts can be intepreted through p5js sketches. By applying rotation, vary font sizes, I can make the sketch more visual impactful, these are very interesting to explore with.
-I felt so lucky that my group finally find methods to complete the performance. I also enjoyed the process of editing videos.
+Karen presented this week's coding session with more detailed methods and was very helpful for me. I had a more clear understanding of how texts can be interpreted through p5js sketches and make it variable.
+
+In this week, I accidentally lost all the files that I stored in my desktop... I lost all materials for my elective, Capstone and Codewords. Fortunately, I kept some screenshots in my mobile and I also used p5js web editor and saved some of my code works. I'll never put files in desktop from then.
+
+However, I felt so lucky that my group finally find methods to complete the performance! I also enjoyed the process of editing videos.
 
 
 
