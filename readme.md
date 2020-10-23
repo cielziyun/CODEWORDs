@@ -2,7 +2,8 @@
 
 ## This SKO will include what I leart & explored during this course, based on weekly visual and written documentation / reflection
 
-**BRIEF STATEMENT FOR SKO**
+**Brief Statement for my SKO**
+
 I want to work in the field of mass entertainment in the future, such as TV shows,
 games and animation, as a motion and video effect designer. And Learning codes is essential for this.  
 
