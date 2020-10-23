@@ -29,5 +29,6 @@ Later in the class, we made prototype for 2D games. We worked in small groups. M
 *Functions by Karen*
 
 # REFLECTION
-Making paper prototype helps me to understand how 2D video games work. They are based on functions and I realised I can deisgn my own game as well using codes. That was very fun. 
-In this week, we learnt how to apply longer texts to p5js sketch. Karen's live coding session were very helpful. The "random" and "mouse" function were useful and helpful as well.
+Making paper prototype helps me to understand how 2D video games work. They are based on functions and I realised I can even deisgn my own game as well using codes. That was very fun. 
+
+In this week, we learnt how to apply longer texts to p5js sketch. Karen's live coding session were very helpful again! The "random" and "mouse" function were useful and helpful as well.
