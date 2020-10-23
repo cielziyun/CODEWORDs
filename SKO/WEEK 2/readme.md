@@ -37,11 +37,12 @@ The digital space in Minecraft.
 *Screenshot of "a selfie" in Minecraft*
 
 ## Introduction to Github
-Karen and Andy walked us through the basic functions of github. It is kinkd of like a place where I can store documents and codes. I established my first repository and explored a bit of chatacters and paragraphs of using github.
+Karen and Andy walked us through some basic information of GitHub. I totally had no idea about what it is and what it works for. Later in week 4, I realized it is a digital space where I can store documents and codes. We can even use it to create our own websites by adding a "github.io". I established my first repository and learnt to use markdowns of writing in the readme.md files.
 
 # REFLECTION
-It is a good chance to see lots of impress typeface designs, as sometimes it's difficult to find impactful information by a single person. The typefaces that Andy showed to us were very impressed, I particularly loved geometric liked typefaces, they looked tidy and are read friendly.
-Performances through digital spaces are very new for me; However, I felt wired when I saw the performance through youtube that Andy shared with the class. Therefore, I disregard the digital spaces of Sims and Second life to avoid the queer feelings and choose Minecraft at last. I thought by using Minecraft, I can probably make a more lovely and less stressful performance outcome.
+It is a good chance to see lots of impress typeface designs, as it's difficult to find as much information as it by ourselves. The typefaces that Andy showed to us were very cool. I particularly loved geometric typefaces by Anh Sangsoo, they looked tidy and are read friendly.
+
+Performances through digital spaces are very new for me. I felt wired when I saw the performance through youtube that Andy shared with the class. Therefore, I disregard the digital spaces of Sims and Second life to avoid the queer feelings and choose Minecraft at last:(  I thought by using Minecraft, I can probably make a more lovely performance outcome.
 
 
 
