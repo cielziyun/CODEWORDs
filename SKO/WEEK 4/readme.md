@@ -24,7 +24,7 @@ Karen presented this week's coding session with more detailed methods and was ve
 
 In this week, I accidentally lost all the files that I stored in my desktop... I lost all materials for my elective, Capstone and Codewords. Fortunately, I kept some screenshots in my mobile and I also used p5js web editor and saved some of my code works. I'll never put files in desktop from now...
 
-However, I felt so lucky that my group finally find methods to complete the performance! I also enjoyed the process of editing videos.
+However, I felt so lucky that my group finally find methods to complete the performance! Andy also provided us with a lot of help. Really appreatiate that. I also enjoyed the process of editing videos. 
 
 
 
