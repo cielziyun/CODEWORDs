@@ -8,7 +8,10 @@ Based on last week's experiments with codes, I used function based on "text wigg
 
 <img width="700" alt="Screen Shot 2020-09-30 at 4 10 10 PM" src="https://user-images.githubusercontent.com/68975607/94660468-45db8b80-0338-11eb-9a83-af0d2cfefbfb.png">
 
-*A screenshot of the project*
+*A screenshot of my project*
+
+## REFLECTION
+I was not sure about what to change or develop for my codes at this stage. I think my projects seems a bit flat...I wondered how I can create more visual impactful outcome.
 
 
 
