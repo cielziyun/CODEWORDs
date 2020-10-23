@@ -18,6 +18,7 @@ Learning codes from youtube.
 
 ## Reading
 We then worked in small groups and read the readings provides by Andy and Karen through "A Reader". [link to A Reader](http://digbeyond.com/readme/phplist.php?course=Code-Words) There seems to have a lot of interesting articles. I randomly read some and finaly I was reading McKenzie Wark's Abstraction/class. It was an impressful reading for me. Below is a summary of the texts.
+
 <img width="500" src="https://user-images.githubusercontent.com/68975607/92667777-7171e400-f33f-11ea-8ce5-879d23079ae1.jpg">
 
 *McKenzie Wark-Abstraction/class*
