@@ -29,7 +29,7 @@ Determined some visual games that we liked and can be utillised for the first as
 Digital spaces include Sims, Animal crossing, Minecrafts, Second life, Club Penguin. 
 
 ## House of Leaves
-Here comes to the reading part! House of Leaves tells a horror story. It is a long reading so we were divided into 6 groups and each group should interpret one chapter from the reading. My group chose chapter 6. It is a chapter related to animals, records the supernatural things that happened to the animals in the host family, and describes Navidson's horror experience when he researched that place with his colleges. 
+Here comes to the reading part! House of Leaves tells a horror story. It is a long reading so we were divided into 6 groups and each group should interpret one chapter from the reading. My group chose chapter 6. It is a chapter related to animals, records the supernatural things that happened to the animals in the host family, and describes Navidson's horror experience when he researched that place with his colleague. 
 The digital space in Minecraft.
 
 <img width="700" src="https://user-images.githubusercontent.com/68975607/91945829-9fe53300-ed31-11ea-9c03-5390d6f8f116.jpg">
